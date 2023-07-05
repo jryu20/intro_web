@@ -1,0 +1,36 @@
+body {
+  font-family: "Bradley Hand";
+  background-color: lightblue;
+  color: darkblue;
+}
+
+fieldset {
+  border: 4px dotted green;
+}
+
+h1, footer, fieldset {
+  text-align: center;
+}
+
+table {
+  border: 2px solid green;
+  margin: 20px auto;
+}
+
+td {
+  text-align: center;
+  font-size: 2em;
+  border: 1px solid green;
+  padding: 16px;
+}
+
+span {
+  display: inline-block;
+  white-space: nowrap;
+  width: 5%;
+  padding-right: 50px;
+  text-align: left;
+
+}
+
+
